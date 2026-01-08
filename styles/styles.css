@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-img{
+    width: 139px;
+    margin: 20px;
+    margin-left: 120px;
+}
+
+
+
+nav{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.tag{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    width: 365px;
+    gap: 32px;
+    margin: 34px;
+    font-size: 16px;
+    color:#000000;
+    
+}
+.tag a{
+    text-decoration: none;
+}
+.btn{
+    
+    padding: 12px 16px;
+    background-color:#469165 ;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    margin: 24px 120px 24px 0;
+    border-radius: 5px;
+    
+}
