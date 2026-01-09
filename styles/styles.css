@@ -43,3 +43,64 @@ nav{
     border-radius: 5px;
     
 }
+.hero{
+    background-image: url(../assets/hero-bg.png);
+    text-align: center;
+    padding: 70px 120px 134px 120px;
+    width: 100%;
+}
+.hero-btn{
+    width: 229px;
+    padding: 8px 12px;
+    font-size: 16px;
+    gap: 6px;
+    background-color: #ffffff;
+    color: #469165;
+    border-radius: 15px;
+    margin: 30px auto;
+}
+.think{
+    color: #ffffff;
+    margin-bottom:20px;
+
+}
+.just{
+    color: #30B868;
+    margin-bottom: 20px;
+}
+.pen{
+    max-width: 1360px;
+    line-height: 24px;
+    font-size: 18px;
+    letter-spacing: 0;
+    color: #ffffff;
+margin-bottom: 28px;
+}
+.btn-conten{
+    background-image: url(../assets/ArrowRight.png);
+    background-position:right;
+    padding: 17px 46px 17px 17px;
+    background-color: #469165;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.see{
+    padding: 17px 17px 17px 46px;
+    border-radius: 5px;
+    font-size:16px ;
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+
+    
+    
+}
+.hero-jectfy{
+    gap: 16px;
+    display: inlin flex;
+    cursor: pointer;
+    align-items: center;
+}
